@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "David",
+    "email": "david@mail.com"
+  },
+  {
+    "id": 2,
+    "name": "Frank",
+    "email": "Frank@mail.com"
+  },
+  {
+    "id": "3",
+    "name": "Grafter",
+    "email": "grafter@mail.com"
+  },
+  {
+    "id": "4",
+    "name": "Grafter1",
+    "email": "grafter1@mail.com"
+  },
+  {
+    "id": "5",
+    "name": "Grafter2",
+    "email": "grafter2@mail.com"
+  },
+  {
+    "id": "6",
+    "name": "Grafter3",
+    "email": "grafter3@mail.com"
+  },
+  {
+    "id": "7",
+    "name": "Grafter7",
+    "email": "grafter7@mail.com"
+  }
+]

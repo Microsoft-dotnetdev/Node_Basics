@@ -5,14 +5,15 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ExpressDemo/index.js",
-    "dev": "nodemon ExpressDemo/index.js"
+    "start": "node --env-file=.env ExpressDemo/index.js",
+    "dev": "nodemon --env-file=.env ExpressDemo/index.js"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@types/express": "^4.17.21",
-    "@types/node": "^20.12.5"
+    "@types/node": "^20.12.5",
+    "dotenv": "^16.4.5"
   },
   "dependencies": {
     "express": "^4.19.2"
